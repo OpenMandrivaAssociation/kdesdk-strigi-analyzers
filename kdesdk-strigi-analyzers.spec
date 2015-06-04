@@ -1,6 +1,6 @@
 Summary:	Strigi analyzers for diff, po, ts and xlf files
 Name:		kdesdk-strigi-analyzers
-Version:	15.04.0
+Version:	15.04.2
 Release:	1
 Epoch:		1
 Group:		Graphical desktop/KDE
