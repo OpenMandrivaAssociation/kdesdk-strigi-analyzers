@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   kdesdk-strigi-analyzers-15.08.0.tar.xz: dca5e21b9c595749f103aefb878d85e6e922a492
+sources:
+  kdesdk-strigi-analyzers-15.08.1.tar.xz: f0b1abb77a71b2751c113f6211b589f1921b0071
