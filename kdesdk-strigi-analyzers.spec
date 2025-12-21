@@ -13,6 +13,7 @@ Url:		https://www.kde.org
 %define ftpdir stable
 %endif
 Source0:	http://download.kde.org/stable/applications/%{version}/src/%{name}-%{version}.tar.xz
+BuildRequires:	make
 BuildRequires:	kdelibs4-devel
 BuildRequires:	pkgconfig(libstreamanalyzer)
 Conflicts:	kdesdk4-strigi-analyzer < 1:4.11.0
